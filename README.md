@@ -6,6 +6,7 @@
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&template=typewriter-terminal&height=52&duration=6s" alt="AI Engineer · Full-stack · RAG & ML" />
 </p>
 
+<a href="https://github.com/kaybee77"><img src="/public/profile.png" align="left" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL" style="border-radius:50%"></a>
 <a href="https://github.com/kaybee77"><img src="/public/profile.png" align="right" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL" style="border-radius:50%"></a>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
