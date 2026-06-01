@@ -1,7 +1,9 @@
 <a id="readme-top"></a>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Kwame%20Essuman&template=hologram-interface&height=200&duration=8s" alt="Kwame Essuman" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&template=cyber-matrix&height=220&duration=8s" alt="Kwame Essuman" />
+  <br>
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&template=typewriter-terminal&height=52&duration=6s" alt="AI Engineer · Full-stack · RAG & ML" />
 </p>
 
 <a href="https://github.com/kaybee77"><img src="https://avatars.githubusercontent.com/u/109185010?v=4" align="right" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL"></a>
@@ -14,9 +16,9 @@ I build AI-powered systems, production web applications, and document retrieval 
 **Open to AI engineering, full-stack, and RAG/ML internships and collaborations.**
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-rainbow&height=40&duration=8s" alt="Portfolio"></a>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-dark&height=40&duration=8s" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
-<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-purple&height=40&duration=8s" alt="Email"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-dark&height=40&duration=8s" alt="Email"></a>
 <a href="https://github.com/kaybee77"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=GitHub&template=pills-dark&height=40&duration=8s" alt="GitHub"></a>
 </p>
 
@@ -108,7 +110,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 **`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Tech%20stack&template=text-shimmer-blue&height=60&duration=6s" alt="Tech stack" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&template=data-stream&height=60&duration=6s" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -121,7 +123,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 </p>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Visitors%20from%20around%20the%20world&template=text-shimmer-gold&height=60&duration=6s" alt="Visitors from around the world" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&template=cyberpunk-city&height=60&duration=6s" alt="Visitors from around the world" />
 </p>
 
 <p align="center">
@@ -149,7 +151,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Thanks%20for%20visiting&template=cotton-candy&height=240&duration=8s" alt="Thanks for visiting" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&template=chrome-flow&height=200&duration=8s" alt="Thanks for visiting" />
 </p>
 
 ---
@@ -157,9 +159,9 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 *Building practical AI — from retrieval pipelines to production web apps.*
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-rainbow&height=40&duration=8s" alt="Portfolio"></a>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-dark&height=40&duration=8s" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
-<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-purple&height=40&duration=8s" alt="Email"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-dark&height=40&duration=8s" alt="Email"></a>
 </p>
 
 <sub><em>↑ Pills & footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
