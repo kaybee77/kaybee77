@@ -1,15 +1,9 @@
 <a id="readme-top"></a>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&template=cyber-matrix&height=220&duration=8s" alt="Kwame Essuman" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&gradientType=dataMatrix&height=260&duration=3s&color0=00e5ff&color1=0099ff&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Kwame Essuman" />
   <br>
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&template=typewriter-terminal&height=52&duration=6s" alt="AI Engineer · Full-stack · RAG & ML" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaybee77">
-    <img src="/public/profile.png" width="180" alt="Kwame Essuman — AI Engineer · St. John's, NL" style="border-radius:50%">
-  </a>
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&gradientType=holographicUI&height=56&duration=3s&color0=00d4ff&color1=0099ff&color2=0066ff&color3=0044bb&color4=002266&color5=000814" alt="AI Engineer · Full-stack · RAG & ML" />
 </p>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
@@ -114,7 +108,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 **`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&template=data-stream&height=60&duration=6s" alt="Tech stack" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&gradientType=aurora-streams&height=64&duration=3s&color0=0066ff&color1=00aaff&color2=0044dd&color3=002299&color4=001133&color5=000814" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -127,7 +121,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 </p>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&template=cyberpunk-city&height=60&duration=6s" alt="Visitors from around the world" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&gradientType=dataStream&height=64&duration=3s&color0=4facfe&color1=00f2fe&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Visitors from around the world" />
 </p>
 
 <p align="center">
@@ -155,7 +149,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&template=chrome-flow&height=200&duration=8s" alt="Thanks for visiting" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&gradientType=wave&height=200&duration=3s&color0=4facfe&color1=00f2fe&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Thanks for visiting" />
 </p>
 
 ---
