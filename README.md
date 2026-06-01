@@ -13,6 +13,14 @@ I build AI-powered systems, production web applications, and document retrieval 
 
 **Open to AI engineering, full-stack, and RAG/ML internships and collaborations.**
 
+<p align="center">
+  <a href="mailto:kbessuman@mun.ca"><img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Full--Stack-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="Open to work"></a>
+  <a href="https://technest-week-1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.mun.ca/"><img src="https://img.shields.io/badge/MAI-Memorial%20University-0044cc?style=for-the-badge" alt="MAI at MUN"></a>
+</p>
+
+AI engineer and full-stack developer with experience building production web applications, clinical data pipelines, and AI-powered systems. Comfortable across the full stack — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment.
+
 <p>
 <a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-dark&height=40&duration=8s" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
@@ -99,6 +107,42 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 
 <p><a href="https://github.com/kaybee77?tab=repositories">View all repositories →</a></p>
 
+<details>
+<summary><kbd>&nbsp;More projects &nbsp;·&nbsp; Geoscience DB · Driver Emotion AI · Blackjack AI&nbsp;</kbd></summary>
+
+<br>
+
+<table>
+  <colgroup>
+    <col style="width:120px">
+    <col style="width:220px">
+    <col>
+  </colgroup>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="Geoscience Well Log Database"></td>
+    <td><strong>Geoscience Well Log Database</strong></td>
+    <td><em>Prototype database for geoscientists to store, standardize, and query well log data from LAS files across multiple wells — improving data consistency and cutting retrieval time for geological measurements.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="72" alt="Driver Emotion Monitoring System"></td>
+    <td><strong>Driver Emotion Monitoring System</strong><br><sub>Jaguar Land Rover MSc capstone brief</sub></td>
+    <td><em>Real-time driver emotion recognition in MATLAB — 5,000+ frames, custom preprocessing pipeline, VGG fine-tuned to 94% detection accuracy.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="18" alt="matlab"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="72" alt="Blackjack AI Player"></td>
+    <td><strong>Blackjack AI Player</strong></td>
+    <td><em>Java AI decision algorithm automating optimal play across all standard Blackjack game states — algorithmic design and OOP.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" alt="java"></td>
+  </tr>
+</table>
+
+</details>
+
+## Skills
+
+| **Languages** | **Frontend & Backend** | **AI & Data** | **DevOps & Cloud** |
+| --- | --- | --- | --- |
+| Python · JavaScript · SQL · Java · MATLAB | React · FastAPI · Node.js · PostgreSQL · REST APIs | RAG Systems · ML Pipelines · Computer Vision · Medical Imaging (DICOM) · LangChain | Git · GitHub Actions · Docker · AWS (EC2, S3) |
+
 ## What I can do
 
 **`1` Build production RAG and AI systems.** Document parsing, chunking, hybrid retrieval, embedding evaluation, and user-facing Q&A interfaces — from OEM manuals to HR knowledge bases.
@@ -118,6 +162,11 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaybee77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybee77&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee77&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaybee77&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" height="165" />
 </p>
 
 <p align="center">
