@@ -6,7 +6,7 @@
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&template=typewriter-terminal&height=52&duration=6s" alt="AI Engineer · Full-stack · RAG & ML" />
 </p>
 
-<a href="https://github.com/kaybee77"><img src="https://avatars.githubusercontent.com/u/109185010?v=4" align="right" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL"></a>
+<a href="https://github.com/kaybee77"><img src="/public/profile.png" align="right" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL" style="border-radius:50%"></a>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
 *St. John's, Newfoundland & Labrador, Canada.*
@@ -142,12 +142,12 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 - **Medical Image Labeling Volunteer** at **[DIAG Lab, Memorial University of Newfoundland](https://www.mun.ca/)** &nbsp;·&nbsp; Nov 2024 -- Present<br>&nbsp;&nbsp;<sub>Labeled 2,000+ CT scan images for medical imaging research; ensured accuracy and consistency within clinical research workflows.</sub>
 - **Full-Stack Developer** at **AccountIT Ghana** &nbsp;·&nbsp; Jun 2023 -- Nov 2024<br>&nbsp;&nbsp;<sub>Contributed to ACIT EduSoft — school management SaaS with React, Node.js, Express, PostgreSQL; client-facing features for admissions, fees, attendance, and timetables across 40+ institutions.</sub>
 
-<sub>Education: Master of Applied Intelligence (MAI), Memorial University of Newfoundland · MSc Computer Science capstone (Jaguar Land Rover brief).</sub>
+<sub>Education: Master of Applied Intelligence (MAI), Memorial University of Newfoundland · MSc Mechatronic Systems capstone (Jaguar Land Rover brief).</sub>
 
 ## Education & focus
 
 - **Master of Applied Intelligence (MAI)** — Memorial University of Newfoundland, St. John's, NL
-- **MSc Computer Science** — Driver emotion monitoring capstone (VGG, 94% accuracy, 5,000+ frames)
+- **MSc Mechatronic Systems** — Driver emotion monitoring capstone (VGG, 94% accuracy, 5,000+ frames)
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 <p align="center">
@@ -167,7 +167,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 <sub><em>↑ Pills & footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109185010?v=4" width="280" alt="Kwame Essuman — let's connect">
+  <img src="/public/profile.png" width="280" alt="Kwame Essuman — let's connect" style="border-radius:50%">
 </p>
 
 <sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
