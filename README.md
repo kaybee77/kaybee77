@@ -152,7 +152,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 **`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&amp;gradientType=aurora-streams&amp;height=64&amp;duration=3s&amp;color0=0066ff&amp;color1=00aaff&amp;color2=0044dd&amp;color3=002299&amp;color4=001133&amp;color5=000814" alt="Tech stack" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&amp;template=hologram-blue&amp;height=80&amp;duration=4s" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 </p>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&amp;gradientType=dataStream&amp;height=64&amp;duration=3s&amp;color0=4facfe&amp;color1=00f2fe&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Visitors from around the world" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&amp;template=data-stream&amp;height=80&amp;duration=4s" alt="Visitors from around the world" />
 </p>
 
 <p align="center">
@@ -197,7 +197,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&amp;gradientType=wave&amp;height=200&amp;duration=3s&amp;color0=4facfe&amp;color1=00f2fe&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Thanks for visiting" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&amp;template=hologram-blue&amp;height=180&amp;duration=4s" alt="Thanks for visiting" />
 </p>
 
 ---
