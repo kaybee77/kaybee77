@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&amp;gradientType=dataMatrix&amp;height=260&amp;duration=3s&amp;color0=00e5ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Kwame Essuman" />
   <br>
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20-%20ML&amp;gradientType=holographicUI&amp;height=56&amp;duration=3s&amp;color0=00d4ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044bb&amp;color4=002266&amp;color5=000814" alt="AI Engineer · Full-stack · RAG · ML" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20-%20ML&amp;template=hologram-blue&amp;height=80&amp;duration=4s" alt="AI Engineer · Full-stack · RAG · ML" />
 </p>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
