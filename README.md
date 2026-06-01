@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&amp;gradientType=dataMatrix&amp;height=260&amp;duration=3s&amp;color0=00e5ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Kwame Essuman" />
   <br>
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&amp;gradientType=holographicUI&amp;height=56&amp;duration=3s&amp;color0=00d4ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044bb&amp;color4=002266&amp;color5=000814" alt="AI Engineer · Full-stack · RAG &amp; ML" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20-%20ML&amp;gradientType=holographicUI&amp;height=56&amp;duration=3s&amp;color0=00d4ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044bb&amp;color4=002266&amp;color5=000814" alt="AI Engineer · Full-stack · RAG · ML" />
 </p>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
@@ -166,7 +166,6 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee77&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" alt="Top languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kaybee77&amp;theme=onedark&amp;no-frame=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" alt="GitHub trophies" height="165" />
 </p>
 
 <p align="center">
