@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&gradientType=dataMatrix&height=260&duration=3s&color0=00e5ff&color1=0099ff&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Kwame Essuman" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=KWAME%20ESSUMAN&amp;gradientType=dataMatrix&amp;height=260&amp;duration=3s&amp;color0=00e5ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Kwame Essuman" />
   <br>
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&gradientType=holographicUI&height=56&duration=3s&color0=00d4ff&color1=0099ff&color2=0066ff&color3=0044bb&color4=002266&color5=000814" alt="AI Engineer · Full-stack · RAG & ML" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20RAG%20%26%20ML&amp;gradientType=holographicUI&amp;height=56&amp;duration=3s&amp;color0=00d4ff&amp;color1=0099ff&amp;color2=0066ff&amp;color3=0044bb&amp;color4=002266&amp;color5=000814" alt="AI Engineer · Full-stack · RAG &amp; ML" />
 </p>
 
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
@@ -14,21 +14,21 @@ I build AI-powered systems, production web applications, and document retrieval 
 **Open to AI engineering, full-stack, and RAG/ML internships and collaborations.**
 
 <p align="center">
-  <a href="mailto:kbessuman@mun.ca"><img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Full--Stack-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="Open to work"></a>
-  <a href="https://technest-week-1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:kbessuman@mun.ca"><img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Full--Stack-0066ff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open to work"></a>
+  <a href="https://technest-week-1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
   <a href="https://www.mun.ca/"><img src="https://img.shields.io/badge/MAI-Memorial%20University-0044cc?style=for-the-badge" alt="MAI at MUN"></a>
 </p>
 
 AI engineer and full-stack developer with experience building production web applications, clinical data pipelines, and AI-powered systems. Comfortable across the full stack — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment.
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-dark&height=40&duration=8s" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
-<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-dark&height=40&duration=8s" alt="Email"></a>
-<a href="https://github.com/kaybee77"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=GitHub&template=pills-dark&height=40&duration=8s" alt="GitHub"></a>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&amp;template=pills-blue&amp;height=40&amp;duration=8s" alt="LinkedIn"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Email"></a>
+<a href="https://github.com/kaybee77"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=GitHub&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="GitHub"></a>
 </p>
 
-<sub><em>↑ Banner & pills made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a> — inspired by <a href="https://github.com/ChanMeng666">ChanMeng666</a>'s profile.</em></sub>
+<sub><em>↑ Banner &amp; pills made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a> — inspired by <a href="https://github.com/ChanMeng666">ChanMeng666</a>'s profile.</em></sub>
 
 <br clear="all">
 
@@ -152,35 +152,35 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 **`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&gradientType=aurora-streams&height=64&duration=3s&color0=0066ff&color1=00aaff&color2=0044dd&color3=002299&color4=001133&color5=000814" alt="Tech stack" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&amp;gradientType=aurora-streams&amp;height=64&amp;duration=3s&amp;color0=0066ff&amp;color1=00aaff&amp;color2=0044dd&amp;color3=002299&amp;color4=001133&amp;color5=000814" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,postgres,docker,aws,git&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,postgres,docker,aws,git&amp;perline=10" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaybee77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybee77&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaybee77&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybee77&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee77&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kaybee77&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee77&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaybee77&amp;theme=onedark&amp;no-frame=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" alt="GitHub trophies" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&gradientType=dataStream&height=64&duration=3s&color0=4facfe&color1=00f2fe&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Visitors from around the world" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=VISITOR%20MAP&amp;gradientType=dataStream&amp;height=64&amp;duration=3s&amp;color0=4facfe&amp;color1=00f2fe&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Visitors from around the world" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ChanMeng666/github-visitor-counter">
-    <img src="https://github-visitor-counter-tau.vercel.app/api?username=kaybee77&theme=github_dark&displayMode=flagMap&mapSize=medium" alt="Visitor flag map" />
+    <img src="https://github-visitor-counter-tau.vercel.app/api?username=kaybee77&amp;theme=github_dark&amp;displayMode=flagMap&amp;mapSize=medium" alt="Visitor flag map" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaybee77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaybee77&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
 </p>
 
 ## Experience
@@ -198,7 +198,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&gradientType=wave&height=200&duration=3s&color0=4facfe&color1=00f2fe&color2=0066ff&color3=0044cc&color4=002266&color5=000814" alt="Thanks for visiting" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&amp;gradientType=wave&amp;height=200&amp;duration=3s&amp;color0=4facfe&amp;color1=00f2fe&amp;color2=0066ff&amp;color3=0044cc&amp;color4=002266&amp;color5=000814" alt="Thanks for visiting" />
 </p>
 
 ---
@@ -206,11 +206,11 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 *Building practical AI — from retrieval pipelines to production web apps.*
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-dark&height=40&duration=8s" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
-<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-dark&height=40&duration=8s" alt="Email"></a>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&amp;template=pills-blue&amp;height=40&amp;duration=8s" alt="LinkedIn"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Email"></a>
 </p>
 
-<sub><em>↑ Pills & footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
+<sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
 <sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
