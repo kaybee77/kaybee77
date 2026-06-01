@@ -1,16 +1,171 @@
-## Hi there 👋
+<a id="readme-top"></a>
 
-<!--
-**kaybee77/kaybee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Kwame%20Essuman&template=hologram-interface&height=200&duration=8s" alt="Kwame Essuman" />
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/kaybee77"><img src="https://avatars.githubusercontent.com/u/109185010?v=4" align="right" width="160" alt="Kwame Essuman — AI Engineer · St. John's, NL"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*AI Engineer · Full-stack Developer · RAG & ML Builder.*
+*St. John's, Newfoundland & Labrador, Canada.*
+
+I build AI-powered systems, production web applications, and document retrieval pipelines — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment. Currently completing my MAI at Memorial University.
+
+**Open to AI engineering, full-stack, and RAG/ML internships and collaborations.**
+
+<p>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-rainbow&height=40&duration=8s" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-purple&height=40&duration=8s" alt="Email"></a>
+<a href="https://github.com/kaybee77"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=GitHub&template=pills-dark&height=40&duration=8s" alt="GitHub"></a>
+</p>
+
+<sub><em>↑ Banner & pills made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a> — inspired by <a href="https://github.com/ChanMeng666">ChanMeng666</a>'s profile.</em></sub>
+
+<br clear="all">
+
+## Selected work
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="Engineering RAG for OEM Manuals">
+
+### Engineering RAG for OEM Manuals
+
+<sub>Capstone / independent build — document search for technical manuals.</sub>
+
+Built a document search system for OEM manuals that lets engineers ask maintenance and parts questions in plain language and retrieve tables, specifications, and part numbers — without manually searching hundreds of pages. Full pipeline: parsing, table extraction, chunking, hybrid indexing, web UI, and API.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
+<br clear="all">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Edusoft">
+
+### Edusoft — School Management SaaS
+
+<sub>For AccountIT Ghana — production SaaS across 40+ institutions.</sub>
+
+Multi-tenant school management platform supporting admissions, attendance, fee management, and reporting. Features 8-tier role-based access control and dedicated dashboards per user role.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="18" alt="aws" style="vertical-align:middle">
+<br clear="all">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Developer Portfolio">
+
+### [Developer Portfolio](https://technest-week-1.vercel.app/)
+
+<sub>Personal site — React + Vite + TypeScript.</sub>
+
+Single-page developer portfolio with light/dark theme, Framer Motion animations, Lucide icons, and editable content layers — deployed on Vercel.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="18" alt="vite" style="vertical-align:middle">
+<br clear="all">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="HR Document Retrieval RAG">
+
+### HR Document Retrieval System (RAG)
+
+<sub>For Genesis AI Garage — AI capstone internship (May–Sept 2025).</sub>
+
+Document search over 170+ HR and business documents with plain-language Q&A. Designed preprocessing and chunking workflows, evaluated embedding models, and built UI + backend so non-technical staff could search independently — tested across 100+ scenarios.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle">
+<br clear="all">
+
+## Repositories
+
+#### Featured
+
+<table>
+  <colgroup>
+    <col style="width:120px">
+    <col style="width:220px">
+    <col>
+  </colgroup>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="72" alt="kaybee77-portfolio"></td>
+    <td><strong><a href="https://github.com/kaybee77/kaybee77-portfolio">kaybee77-portfolio</a></strong><br><sub><a href="https://technest-week-1.vercel.app/">Live demo →</a></sub></td>
+    <td><em>Personal developer portfolio built with React, Vite, TypeScript, and Tailwind CSS — shadow-style UI, Framer Motion, and built-in light/dark theme.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="18" alt="vite"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="72" alt="docs"></td>
+    <td><strong><a href="https://github.com/kaybee77/docs">docs</a></strong></td>
+    <td><em>Documentation site powered by Mintlify — guides, API references, and AI-assisted writing workflow.</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="72" alt="hostinger-etil"></td>
+    <td><strong><a href="https://github.com/kaybee77/hostinger-etil">hostinger-etil</a></strong></td>
+    <td><em>Web deployment and hosting project.</em></td>
+  </tr>
+</table>
+
+<p><a href="https://github.com/kaybee77?tab=repositories">View all repositories →</a></p>
+
+## What I can do
+
+**`1` Build production RAG and AI systems.** Document parsing, chunking, hybrid retrieval, embedding evaluation, and user-facing Q&A interfaces — from OEM manuals to HR knowledge bases.
+
+**`2` Ship full-stack web applications end-to-end.** React frontends, REST APIs, PostgreSQL schema design, role-based access control, and AWS/Docker deployment for real-world SaaS products.
+
+**`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
+
+<p align="center">
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Tech%20stack&template=text-shimmer-blue&height=60&duration=6s" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,postgres,docker,aws,git&perline=10" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaybee77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybee77&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Visitors%20from%20around%20the%20world&template=text-shimmer-gold&height=60&duration=6s" alt="Visitors from around the world" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChanMeng666/github-visitor-counter">
+    <img src="https://github-visitor-counter-tau.vercel.app/api?username=kaybee77&theme=github_dark&displayMode=flagMap&mapSize=medium" alt="Visitor flag map" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaybee77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## Experience
+
+- **AI Capstone Intern** at **Genesis AI Garage — HR Document Retrieval System (RAG)** &nbsp;·&nbsp; May 2025 -- Sept 2025<br>&nbsp;&nbsp;<sub>Built plain-language search over 170+ HR documents; designed chunking workflows, evaluated embeddings, and delivered UI + backend for non-technical staff — validated across 100+ test scenarios.</sub>
+- **Medical Image Labeling Volunteer** at **[DIAG Lab, Memorial University of Newfoundland](https://www.mun.ca/)** &nbsp;·&nbsp; Nov 2024 -- Present<br>&nbsp;&nbsp;<sub>Labeled 2,000+ CT scan images for medical imaging research; ensured accuracy and consistency within clinical research workflows.</sub>
+- **Full-Stack Developer** at **AccountIT Ghana** &nbsp;·&nbsp; Jun 2023 -- Nov 2024<br>&nbsp;&nbsp;<sub>Contributed to ACIT EduSoft — school management SaaS with React, Node.js, Express, PostgreSQL; client-facing features for admissions, fees, attendance, and timetables across 40+ institutions.</sub>
+
+<sub>Education: Master of Applied Intelligence (MAI), Memorial University of Newfoundland · MSc Computer Science capstone (Jaguar Land Rover brief).</sub>
+
+## Education & focus
+
+- **Master of Applied Intelligence (MAI)** — Memorial University of Newfoundland, St. John's, NL
+- **MSc Computer Science** — Driver emotion monitoring capstone (VGG, 94% accuracy, 5,000+ frames)
+- **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
+
+<p align="center">
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Thanks%20for%20visiting&template=cotton-candy&height=240&duration=8s" alt="Thanks for visiting" />
+</p>
+
+---
+
+*Building practical AI — from retrieval pipelines to production web apps.*
+
+<p>
+<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&template=pills-rainbow&height=40&duration=8s" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&template=pills-blue&height=40&duration=8s" alt="LinkedIn"></a>
+<a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&template=pills-purple&height=40&duration=8s" alt="Email"></a>
+</p>
+
+<sub><em>↑ Pills & footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/109185010?v=4" width="280" alt="Kwame Essuman — let's connect">
+</p>
+
+<sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
