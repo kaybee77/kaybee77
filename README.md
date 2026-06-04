@@ -49,7 +49,7 @@ Built a document search system for OEM manuals that lets engineers ask maintenan
 
 ### Edusoft — School Management SaaS
 
-<sub>For AccountIT Ghana — production SaaS across 40+ institutions.</sub>
+<sub>AccountIT · Full Stack Developer · Feb 2024 – Feb 2026 — production SaaS across 40+ institutions.</sub>
 
 Multi-tenant school management platform supporting admissions, attendance, fee management, and reporting. Features 8-tier role-based access control and dedicated dashboards per user role.
 
@@ -69,11 +69,11 @@ Single-page developer portfolio with light/dark theme, Framer Motion animations,
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="HR Document Retrieval RAG">
 
-### HR Document Retrieval System (RAG)
+### Enterprise RAG System (MAI Capstone)
 
-<sub>For Genesis AI Garage — AI capstone internship (May–Sept 2025).</sub>
+<sub>Memorial University of Newfoundland · Master's in Applied Intelligence · 2024–2025.</sub>
 
-Document search over 170+ HR and business documents with plain-language Q&A. Designed preprocessing and chunking workflows, evaluated embedding models, and built UI + backend so non-technical staff could search independently — tested across 100+ scenarios.
+Designed and implemented a retrieval-augmented generation system for enterprise knowledge search — FastAPI backend, React/Vite frontend, ChromaDB vector storage, MongoDB logging, and transformer-based embeddings with Agile iteration.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle">
 <br clear="all">
@@ -149,7 +149,7 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 
 **`2` Ship full-stack web applications end-to-end.** React frontends, REST APIs, PostgreSQL schema design, role-based access control, and AWS/Docker deployment for real-world SaaS products.
 
-**`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical image labeling (2,000+ CT scans), and DICOM-adjacent research workflows.
+**`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical imaging dataset engineering at DIAG Lab, and DICOM-adjacent research workflows.
 
 <p align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=TECH%20STACK&amp;template=hologram-blue&amp;height=80&amp;duration=4s" alt="Tech stack" />
@@ -184,17 +184,36 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 
 ## Experience
 
-- **AI Capstone Intern** at **Genesis AI Garage — HR Document Retrieval System (RAG)** &nbsp;·&nbsp; May 2025 -- Sept 2025<br>&nbsp;&nbsp;<sub>Built plain-language search over 170+ HR documents; designed chunking workflows, evaluated embeddings, and delivered UI + backend for non-technical staff — validated across 100+ test scenarios.</sub>
-- **Medical Image Labeling Volunteer** at **[DIAG Lab, Memorial University of Newfoundland](https://www.mun.ca/)** &nbsp;·&nbsp; Nov 2024 -- Present<br>&nbsp;&nbsp;<sub>Labeled 2,000+ CT scan images for medical imaging research; ensured accuracy and consistency within clinical research workflows.</sub>
-- **Full-Stack Developer** at **AccountIT Ghana** &nbsp;·&nbsp; Jun 2023 -- Nov 2024<br>&nbsp;&nbsp;<sub>Contributed to ACIT EduSoft — school management SaaS with React, Node.js, Express, PostgreSQL; client-facing features for admissions, fees, attendance, and timetables across 40+ institutions.</sub>
+- **Full Stack Developer** at **AccountIT** &nbsp;·&nbsp; Feb 2024 -- Feb 2026<br>&nbsp;&nbsp;<sub>Permanent part-time · Ghana · Hybrid. Built and maintained SaaS web apps for business and education; React frontends, REST APIs, PostgreSQL, RBAC, validation; Git, testing, and deployment workflows.</sub>
+- **Data Engineer** at **[Data and Image Analysis Group (DIAG Lab), Memorial University of Newfoundland](https://www.mun.ca/)** &nbsp;·&nbsp; Dec 2024 -- Dec 2025<br>&nbsp;&nbsp;<sub>Internship · St. John's, NL · On-site. CT scan cleaning, preprocessing, labeling, and validation for AI-driven medical imaging research datasets.</sub>
+- **Junior Full Stack Engineer** at **AccountIT** &nbsp;·&nbsp; Mar 2023 -- Nov 2023<br>&nbsp;&nbsp;<sub>Contract part-time · Ghana · Remote. Responsive web features, REST API integration, reusable components, and CI/CD for business and educational solutions.</sub>
+- **Junior Front-End** at **SOFTBOUND** &nbsp;·&nbsp; Jun 2022 -- Jan 2023<br>&nbsp;&nbsp;<sub>Apprenticeship · Ghana · Remote. HTML, CSS, JavaScript, and React; API integration and reusable UI components for scalable web applications.</sub>
 
-<sub>Education: Master of Applied Intelligence (MAI), Memorial University of Newfoundland · MSc Mechatronic Systems capstone (Jaguar Land Rover brief).</sub>
+<details>
+<summary><kbd>&nbsp;Earlier career &nbsp;·&nbsp; KSB · Vivo Energy · Cape3 · Shell&nbsp;</kbd></summary>
+
+<br>
+
+- **Sales Manager (Building Service and Energy Sector)** at **KSB SA PTY LTD** &nbsp;·&nbsp; May 2018 -- Dec 2021<br>&nbsp;&nbsp;<sub>Greater Accra Region, Ghana. Technical discovery, fluid-systems sizing, SCADA/IoT telemetry analysis, root-cause debugging, and process optimization for mining and oil &amp; gas clients.</sub>
+- **Regional Sales Engineer** at **[KSB Company](https://www.linkedin.com/company/ksb)** &nbsp;·&nbsp; Aug 2018 -- May 2021<br>&nbsp;&nbsp;<sub>Ghana. Building service and energy sales and aftersales across Nigeria, Côte d'Ivoire, Senegal, Ghana, and Burkina Faso.</sub>
+- **Mining Technical Advisor (RCM Practitioner)** at **[Vivo Energy](https://www.linkedin.com/company/vivoenergy)** &nbsp;·&nbsp; Jun 2014 -- Jun 2018<br>&nbsp;&nbsp;<sub>Tarkwa, Western Region, Ghana. Reliability-centred maintenance, predictive analytics, oil analysis, vibration monitoring, and root-cause failure analysis for mining operations.</sub>
+- **Technical Support Engineer (offshore filtration systems)** at **Cape3 Services Limited** &nbsp;·&nbsp; Nov 2013 -- May 2014<br>&nbsp;&nbsp;<sub>Accra · On-site. Sales and aftersales performance monitoring for offshore seawater injection filtration systems.</sub>
+- **Plant Engineer** at **[Shell](https://www.linkedin.com/company/shell)** &nbsp;·&nbsp; Sep 2012 -- Dec 2013<br>&nbsp;&nbsp;<sub>Sekondi-Takoradi, Western Region, Ghana. Asset maintenance, safety protocols, root-cause analysis, and HSE compliance for industrial plant operations.</sub>
+
+</details>
 
 ## Education & focus
 
-- **Master of Applied Intelligence (MAI)** — Memorial University of Newfoundland, St. John's, NL
-- **MSc Mechatronic Systems** — Driver emotion monitoring capstone (VGG, 94% accuracy, 5,000+ frames)
+- **Master of Applied Intelligence (MAI), Artificial Intelligence** — [Memorial University of Newfoundland](https://www.mun.ca/), St. John's, NL · 2024–2025<br>&nbsp;&nbsp;<sub>Enterprise RAG capstone — FastAPI, React/Vite, ChromaDB, MongoDB, transformer embeddings, Agile delivery.</sub>
+- **MSc Mechatronics, Robotics and Automation Engineering (Distinction)** — Kingston University · 2022–2023<br>&nbsp;&nbsp;<sub>Driver facial emotion recognition for ADAS — deep learning, seven emotion classes, VGG fine-tuning, 5,000+ frames.</sub>
+- **BSc Mechanical Engineering** — University of Mines and Technology, Tarkwa · 2008–2012
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
+
+## Credentials
+
+- **[IBM — Artificial Intelligence Fundamentals](https://www.credly.com/badges/75b80775-02e7-4e26-b6b4-723a0d2a9ba7)** · May 2025
+- **[IBM — Data Fundamentals](https://www.credly.com/badges/4b4c876a-d58b-4ccc-8a39-94bf7f73aa52)** · Dec 2024
+- **ICML — Machine Lubricant Analyst**
 
 <p align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&amp;template=hologram-blue&amp;height=180&amp;duration=4s" alt="Thanks for visiting" />
@@ -212,4 +231,4 @@ Document search over 170+ HR and business documents with plain-language Q&A. Des
 
 <sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
-<sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
+<sub>Last updated <strong>2026-06-04</strong>. [Back to top](#readme-top).</sub>
