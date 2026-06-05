@@ -161,12 +161,12 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaybee77&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybee77&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaybee77&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=kaybee77&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybee77&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaybee77&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
