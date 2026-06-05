@@ -15,14 +15,15 @@ I build AI-powered systems, production web applications, and document retrieval 
 
 <p align="center">
   <a href="mailto:kbessuman@mun.ca"><img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Full--Stack-0066ff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open to work"></a>
-  <a href="https://technest-week-1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://technest-week-2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
   <a href="https://www.mun.ca/"><img src="https://img.shields.io/badge/MAI-Memorial%20University-0044cc?style=for-the-badge" alt="MAI at MUN"></a>
 </p>
 
 AI engineer and full-stack developer with experience building production web applications, clinical data pipelines, and AI-powered systems. Comfortable across the full stack — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment.
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://technest-week-2.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://github.com/kaybee77/kwame_essuman_web"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Source&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio repo"></a>
 <a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&amp;template=pills-blue&amp;height=40&amp;duration=8s" alt="LinkedIn"></a>
 <a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Email"></a>
 <a href="https://github.com/kaybee77"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=GitHub&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="GitHub"></a>
@@ -56,15 +57,15 @@ Multi-tenant school management platform supporting admissions, attendance, fee m
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="18" alt="aws" style="vertical-align:middle">
 <br clear="all">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Developer Portfolio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="right" height="80" alt="Developer Portfolio">
 
-### [Developer Portfolio](https://technest-week-1.vercel.app/)
+### [Developer Portfolio](https://technest-week-2.vercel.app/) · [Source](https://github.com/kaybee77/kwame_essuman_web)
 
-<sub>Personal site — React + Vite + TypeScript.</sub>
+<sub>Personal site — Next.js 16, Once UI, MDX, Neon Postgres, OpenAI chat.</sub>
 
-Single-page developer portfolio with light/dark theme, Framer Motion animations, Lucide icons, and editable content layers — deployed on Vercel.
+Production portfolio with MDX projects and blog, AI chat assistant, blog comments, admin auth, dynamic OG images, and RSS — deployed on Vercel.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="18" alt="vite" style="vertical-align:middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
 <br clear="all">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="HR Document Retrieval RAG">
@@ -89,9 +90,9 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <col>
   </colgroup>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="72" alt="kaybee77-portfolio"></td>
-    <td><strong><a href="https://github.com/kaybee77/kaybee77-portfolio">kaybee77-portfolio</a></strong><br><sub><a href="https://technest-week-1.vercel.app/">Live demo →</a></sub></td>
-    <td><em>Personal developer portfolio built with React, Vite, TypeScript, and Tailwind CSS — shadow-style UI, Framer Motion, and built-in light/dark theme.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="18" alt="vite"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="kwame_essuman_web"></td>
+    <td><strong><a href="https://github.com/kaybee77/kwame_essuman_web">kwame_essuman_web</a></strong><br><sub><a href="https://technest-week-2.vercel.app/">Live demo →</a></sub></td>
+    <td><em>Production portfolio — Next.js 16, Once UI, MDX projects/blog, OpenAI chat widget, Neon Postgres comments, and admin auth.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="72" alt="docs"></td>
@@ -224,11 +225,12 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 *Building practical AI — from retrieval pipelines to production web apps.*
 
 <p>
-<a href="https://technest-week-1.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://technest-week-2.vercel.app"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Portfolio&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio"></a>
+<a href="https://github.com/kaybee77/kwame_essuman_web"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Source&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Portfolio repo"></a>
 <a href="https://linkedin.com/in/kwameessuman"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=LinkedIn&amp;template=pills-blue&amp;height=40&amp;duration=8s" alt="LinkedIn"></a>
 <a href="mailto:kbessuman@mun.ca"><img src="https://gradient-svg-generator.vercel.app/api/svg?text=Email&amp;template=pills-dark&amp;height=40&amp;duration=8s" alt="Email"></a>
 </p>
 
 <sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
-<sub>Last updated <strong>2026-06-04</strong>. [Back to top](#readme-top).</sub>
+<sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
