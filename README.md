@@ -100,8 +100,8 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="hostinger-etil"></td>
-    <td><strong><a href="https://github.com/kaybee77/hostinger-etil">hostinger-etil</a></strong></td>
-    <td><em>Next.js web app for ETIL — deployment and hosting on Hostinger.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
+    <td><strong><a href="https://github.com/kaybee77/hostinger-etil">hostinger-etil</a></strong><br><sub><a href="https://hostinger-etil.vercel.app/">Live demo →</a></sub></td>
+    <td><em>Next.js marketing site for Excel Trade International Ltd — engineering supply across West Africa.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
   </tr>
 </table>
 
