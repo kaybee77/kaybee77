@@ -68,6 +68,17 @@ Production portfolio with MDX projects and blog, AI chat assistant, blog comment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
 <br clear="all">
 
+<img src="https://raw.githubusercontent.com/kaybee77/aamsco-engineering/master/images/brand/PNG-01.png" align="right" height="80" alt="Aamsco Engineering">
+
+### [Aamsco Engineering Services](https://aamscoengineering.com/) · [Source](https://github.com/kaybee77/aamsco-engineering)
+
+<sub>Client site — static HTML/CSS/JS marketing site for industrial engineering supply in Ghana.</sub>
+
+Multi-page website for pumps, valves, pipelines, HVAC, and automation — hero animations, service/product accordions, client logos, FormSubmit contact form, and SEO metadata. Deployed on Hostinger at [aamscoengineering.com](https://aamscoengineering.com/).
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="html5" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="css3" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="javascript" style="vertical-align:middle">
+<br clear="all">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="right" height="80" alt="Well Log Database">
 
 ### [DB_ToyImp](https://github.com/kaybee77/DB_ToyImp) · Well Log Database
@@ -125,12 +136,17 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <td><strong><a href="https://github.com/kaybee77/hostinger-etil">hostinger-etil</a></strong><br><sub><a href="https://hostinger-etil.vercel.app/">Live demo →</a></sub></td>
     <td><em>Next.js marketing site for Excel Trade International Ltd — engineering supply across West Africa.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
   </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/kaybee77/aamsco-engineering/master/images/brand/PNG-01.png" height="72" alt="aamsco-engineering"></td>
+    <td><strong><a href="https://github.com/kaybee77/aamsco-engineering">aamsco-engineering</a></strong><br><sub><a href="https://aamscoengineering.com/">Live demo →</a></sub></td>
+    <td><em>Static marketing site for Aamsco Engineering Services Ltd — pumps, valves, pipelines, HVAC, and industrial supply across Ghana and West Africa.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="html5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="css3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="javascript"></td>
+  </tr>
 </table>
 
 <p><a href="https://github.com/kaybee77?tab=repositories">View all repositories →</a></p>
 
 <details>
-<summary><kbd>&nbsp;More projects &nbsp;·&nbsp; Geoscience DB · Driver Emotion AI · Blackjack AI&nbsp;</kbd></summary>
+<summary><kbd>&nbsp;More projects &nbsp;·&nbsp; Geoscience DB · Aamsco · Driver Emotion AI · Blackjack AI&nbsp;</kbd></summary>
 
 <br>
 
