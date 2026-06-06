@@ -126,8 +126,8 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
   </colgroup>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="Geoscience Well Log Database"></td>
-    <td><strong>Geoscience Well Log Database</strong></td>
-    <td><em>Prototype database for geoscientists to store, standardize, and query well log data from LAS files across multiple wells — improving data consistency and cutting retrieval time for geological measurements.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"></td>
+    <td><strong><a href="https://github.com/kaybee77/DB_ToyImp">DB_ToyImp</a></strong><br><sub>Geoscience Well Log Database</sub></td>
+    <td><em>Prototype PostgreSQL + Cassandra well-log DB with mnemonic standardization at ingest — LAS parsing, cross-well queries, Streamlit UI, Docker Compose. Real Hibernia B-16 2Z data.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="72" alt="Driver Emotion Monitoring System"></td>
