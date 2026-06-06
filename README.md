@@ -37,13 +37,13 @@ AI engineer and full-stack developer with experience building production web app
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="Engineering RAG for OEM Manuals">
 
-### Engineering RAG for OEM Manuals
+### [Engineering RAG for OEM Manuals](https://github.com/kayess007/engineering_Rag) · [Mirror](https://github.com/kaybee77/engineering_Rag)
 
-<sub>Capstone / independent build — document search for technical manuals.</sub>
+<sub>Capstone / independent build — FastAPI + ChromaDB RAG for Caterpillar parts catalogues and service manuals.</sub>
 
-Built a document search system for OEM manuals that lets engineers ask maintenance and parts questions in plain language and retrieve tables, specifications, and part numbers — without manually searching hundreds of pages. Full pipeline: parsing, table extraction, chunking, hybrid indexing, web UI, and API.
+Document search system that lets engineers ask maintenance and parts questions in plain language — hybrid BM25 + vector retrieval, cross-encoder reranking, query classification, and **0.84 RAGAS score** at K=6. Full pipeline: table-aware PDF parsing, hierarchical chunking, Streamlit UI, and Docker deployment.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker" style="vertical-align:middle">
 <br clear="all">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Edusoft">
@@ -93,6 +93,11 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="kwame_essuman_web"></td>
     <td><strong><a href="https://github.com/kaybee77/kwame_essuman_web">kwame_essuman_web</a></strong><br><sub><a href="https://technest-week-2.vercel.app/">Live demo →</a></sub></td>
     <td><em>Production portfolio — Next.js 16, Once UI, MDX projects/blog, OpenAI chat widget, Neon Postgres comments, and admin auth.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" alt="engineering_Rag"></td>
+    <td><strong><a href="https://github.com/kayess007/engineering_Rag">engineering_Rag</a></strong><br><sub><a href="https://github.com/kaybee77/engineering_Rag">Mirror on kaybee77 →</a></sub></td>
+    <td><em>Production RAG for OEM manuals — FastAPI, ChromaDB, hybrid retrieval, reranking, RAGAS evaluation, Streamlit UI, Docker.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="72" alt="docs"></td>
@@ -233,4 +238,4 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 
 <sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
-<sub>Last updated <strong>2026-06-01</strong>. [Back to top](#readme-top).</sub>
+<sub>Last updated <strong>2026-06-06</strong>. [Back to top](#readme-top).</sub>
