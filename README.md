@@ -68,7 +68,7 @@ Production portfolio with MDX projects and blog, AI chat assistant, blog comment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
 <br clear="all">
 
-<img src="https://raw.githubusercontent.com/kaybee77/aamsco-engineering/master/images/brand/PNG-01.png" align="right" height="80" alt="Aamsco Engineering">
+<img src="https://raw.githubusercontent.com/kaybee77/kaybee77/main/assets/aamsco-logo.png" align="right" height="80" alt="Aamsco Engineering">
 
 ### [Aamsco Engineering Services](https://aamscoengineering.com/) · [Source](https://github.com/kaybee77/aamsco-engineering)
 
@@ -137,7 +137,7 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <td><em>Next.js marketing site for Excel Trade International Ltd — engineering supply across West Africa.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/kaybee77/aamsco-engineering/master/images/brand/PNG-01.png" height="72" alt="aamsco-engineering"></td>
+    <td><img src="https://raw.githubusercontent.com/kaybee77/kaybee77/main/assets/aamsco-logo.png" height="72" alt="aamsco-engineering"></td>
     <td><strong><a href="https://github.com/kaybee77/aamsco-engineering">aamsco-engineering</a></strong><br><sub><a href="https://aamscoengineering.com/">Live demo →</a></sub></td>
     <td><em>Static marketing site for Aamsco Engineering Services Ltd — pumps, valves, pipelines, HVAC, and industrial supply across Ghana and West Africa.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="html5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="css3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="javascript"></td>
   </tr>
