@@ -68,6 +68,17 @@ Production portfolio with MDX projects and blog, AI chat assistant, blog comment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle">
 <br clear="all">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="right" height="80" alt="Well Log Database">
+
+### [DB_ToyImp](https://github.com/kaybee77/DB_ToyImp) · Well Log Database
+
+<sub>Memorial University group project — PostgreSQL + Cassandra toy implementation for LAS well logs.</sub>
+
+Prototype database for geoscientists to ingest LAS files, standardize curve mnemonics at ingest, and query well log data across wells — with Streamlit UI and Docker Compose on real Hibernia B-16 2Z data.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker" style="vertical-align:middle">
+<br clear="all">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="right" height="80" alt="HR Document Retrieval RAG">
 
 ### Enterprise RAG System (MAI Capstone)
@@ -98,6 +109,11 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" alt="engineering_Rag"></td>
     <td><strong><a href="https://github.com/kayess007/engineering_Rag">engineering_Rag</a></strong><br><sub><a href="https://github.com/kaybee77/engineering_Rag">Mirror on kaybee77 →</a></sub></td>
     <td><em>Production RAG for OEM manuals — FastAPI, ChromaDB, hybrid retrieval, reranking, RAGAS evaluation, Streamlit UI, Docker.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="DB_ToyImp"></td>
+    <td><strong><a href="https://github.com/kaybee77/DB_ToyImp">DB_ToyImp</a></strong><br><sub>Well log database →</sub></td>
+    <td><em>PostgreSQL + Cassandra well-log DB — LAS ingestion, mnemonic standardization, cross-well queries, Streamlit UI, Docker Compose.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="postgresql"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="72" alt="docs"></td>
