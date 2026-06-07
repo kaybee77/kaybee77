@@ -9,14 +9,14 @@
 *AI Engineer · Full-stack Developer · RAG & ML Builder.*
 *St. John's, Newfoundland & Labrador, Canada.*
 
-I build AI-powered systems, production web applications, and document retrieval pipelines — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment. Currently completing my MAI at Memorial University.
+I build AI-powered systems, production web applications, and document retrieval pipelines — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment. MAI graduate, Memorial University of Newfoundland · May 2026.
 
 **Open to AI engineering, full-stack, and RAG/ML internships and collaborations.**
 
 <p align="center">
   <a href="mailto:kbessuman@mun.ca"><img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Full--Stack-0066ff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open to work"></a>
   <a href="https://technest-week-2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0099ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.mun.ca/"><img src="https://img.shields.io/badge/MAI-Memorial%20University-0044cc?style=for-the-badge" alt="MAI at MUN"></a>
+  <a href="https://www.mun.ca/"><img src="https://img.shields.io/badge/MAI%20Graduate%20%C2%B7%20MUN-0044cc?style=for-the-badge" alt="MAI Graduate · MUN"></a>
 </p>
 
 AI engineer and full-stack developer with experience building production web applications, clinical data pipelines, and AI-powered systems. Comfortable across the full stack — from schema design and API development to frontend interfaces, CI/CD, and cloud deployment.
@@ -94,7 +94,7 @@ Prototype database for geoscientists to ingest LAS files, standardize curve mnem
 
 ### Enterprise RAG System (MAI Capstone)
 
-<sub>Memorial University of Newfoundland · Master's in Applied Intelligence · 2024–2025.</sub>
+<sub>Memorial University of Newfoundland · Master of Applied Intelligence (MAI) · Graduated May 2026.</sub>
 
 Designed and implemented a retrieval-augmented generation system for enterprise knowledge search — FastAPI backend, React/Vite frontend, ChromaDB vector storage, MongoDB logging, and transformer-based embeddings with Agile iteration.
 
@@ -242,16 +242,19 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 
 ## Education & focus
 
-- **Master of Applied Intelligence (MAI), Artificial Intelligence** — [Memorial University of Newfoundland](https://www.mun.ca/), St. John's, NL · 2024–2025<br>&nbsp;&nbsp;<sub>Enterprise RAG capstone — FastAPI, React/Vite, ChromaDB, MongoDB, transformer embeddings, Agile delivery.</sub>
+- **Master of Applied Intelligence (MAI), Artificial Intelligence** — [Memorial University of Newfoundland](https://www.mun.ca/), St. John's, NL · Graduated May 2026<br>&nbsp;&nbsp;<sub>Enterprise RAG capstone — FastAPI, React/Vite, ChromaDB, MongoDB, transformer embeddings, Agile delivery.</sub>
 - **MSc Mechatronics, Robotics and Automation Engineering (Distinction)** — Kingston University · 2022–2023<br>&nbsp;&nbsp;<sub>Driver facial emotion recognition for ADAS — deep learning, seven emotion classes, VGG fine-tuning, 5,000+ frames.</sub>
 - **BSc Mechanical Engineering** — University of Mines and Technology, Tarkwa · 2008–2012
 - **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
 
 ## Credentials
 
+- **Project Management Professional (PMP)**
+- **Machine Lubricant Analyst (MLA II)** — ICML
 - **[IBM — Artificial Intelligence Fundamentals](https://www.credly.com/badges/75b80775-02e7-4e26-b6b4-723a0d2a9ba7)** · May 2025
+- **IBM — Machine Learning Fundamentals**
 - **[IBM — Data Fundamentals](https://www.credly.com/badges/4b4c876a-d58b-4ccc-8a39-94bf7f73aa52)** · Dec 2024
-- **ICML — Machine Lubricant Analyst**
+- **IBM — AI Ethics**
 
 <p align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=THANKS%20FOR%20VISITING&amp;template=hologram-blue&amp;height=180&amp;duration=4s" alt="Thanks for visiting" />
@@ -270,4 +273,4 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 
 <sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
-<sub>Last updated <strong>2026-06-06</strong>. [Back to top](#readme-top).</sub>
+<sub>Last updated <strong>2026-06-05</strong>. [Back to top](#readme-top).</sub>
