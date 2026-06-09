@@ -50,11 +50,11 @@ Document search system that lets engineers ask maintenance and parts questions i
 
 ### [SVG Image Generator](https://github.com/kaybee77/SVG) · [Source](https://github.com/kaybee77/SVG)
 
-<sub>Open source · MIT — Next.js 16, Vercel AI SDK, Gemini / Anthropic / OpenAI.</sub>
+<sub>Open source · MIT — Next.js 16, React 19, Tailwind CSS 4, Vercel AI SDK v6, Gemini / Anthropic / OpenAI.</sub>
 
-AI-powered prompt-to-SVG app that turns text descriptions into safe, editable vector artwork — multi-provider model routing, server-side SVG validation, live preview, and download. Bring your own API key.
+AI-powered prompt-to-SVG app that turns text descriptions into safe, editable vector artwork — multi-provider model routing (`gemini-2.5-flash` default), server-side SVG validation, live preview, and download. Bring your own API key.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss" style="vertical-align:middle">
 <br clear="all">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Edusoft">
@@ -135,7 +135,7 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="SVG"></td>
     <td><strong><a href="https://github.com/kaybee77/SVG">SVG</a></strong><br><sub><a href="https://github.com/kaybee77/SVG">Open source · MIT →</a></sub></td>
-    <td><em>AI prompt-to-SVG generator — Next.js 16, Vercel AI SDK, Gemini/Anthropic/OpenAI, server-side SVG validation, live preview.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
+    <td><em>AI prompt-to-SVG generator — Next.js 16, React 19, Tailwind CSS 4, Vercel AI SDK v6, Gemini/Anthropic/OpenAI, server-side SVG validation, live preview. MIT licensed.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="tailwindcss"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="DB_ToyImp"></td>
@@ -195,13 +195,13 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 
 | **Languages** | **Frontend & Backend** | **AI & Data** | **DevOps & Cloud** |
 | --- | --- | --- | --- |
-| Python · JavaScript · SQL · Java · MATLAB | React · FastAPI · Node.js · PostgreSQL · REST APIs | RAG Systems · ML Pipelines · Computer Vision · Medical Imaging (DICOM) · LangChain | Git · GitHub Actions · Docker · AWS (EC2, S3) |
+| Python · JavaScript · TypeScript · SQL · Java · MATLAB | React · Next.js · FastAPI · Node.js · PostgreSQL · REST APIs | RAG Systems · Vercel AI SDK · Gemini · ML Pipelines · Computer Vision · Medical Imaging (DICOM) | Git · GitHub Actions · Docker · Vercel · AWS (EC2, S3) |
 
 ## What I can do
 
-**`1` Build production RAG and AI systems.** Document parsing, chunking, hybrid retrieval, embedding evaluation, and user-facing Q&A interfaces — from OEM manuals to HR knowledge bases.
+**`1` Build production RAG and AI systems.** Document parsing, chunking, hybrid retrieval, embedding evaluation, and user-facing Q&A interfaces — from OEM manuals to HR knowledge bases and open-source prompt-to-SVG tools.
 
-**`2` Ship full-stack web applications end-to-end.** React frontends, REST APIs, PostgreSQL schema design, role-based access control, and AWS/Docker deployment for real-world SaaS products.
+**`2` Ship full-stack web applications end-to-end.** React and Next.js frontends, REST APIs, PostgreSQL schema design, role-based access control, multi-provider AI routing, and Vercel/AWS/Docker deployment for real-world SaaS products.
 
 **`3` Work across AI, data, and clinical imaging.** ML pipelines, computer vision (94% accuracy on driver emotion capstone), medical imaging dataset engineering at DIAG Lab, and DICOM-adjacent research workflows.
 
@@ -210,7 +210,7 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,postgres,docker,aws,git&amp;perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,nodejs,postgres,tailwind,docker,aws,git&amp;perline=12" alt="Tech stack icons" />
 </p>
 
 <p align="center">
@@ -261,7 +261,7 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 - **Master of Applied Intelligence (MAI), Artificial Intelligence** — [Memorial University of Newfoundland](https://www.mun.ca/), St. John's, NL · Graduated May 2026<br>&nbsp;&nbsp;<sub>Enterprise RAG capstone — FastAPI, React/Vite, ChromaDB, MongoDB, transformer embeddings, Agile delivery.</sub>
 - **MSc Mechatronics, Robotics and Automation Engineering (Distinction)** — Kingston University · 2022–2023<br>&nbsp;&nbsp;<sub>Driver facial emotion recognition for ADAS — deep learning, seven emotion classes, VGG fine-tuning, 5,000+ frames.</sub>
 - **BSc Mechanical Engineering** — University of Mines and Technology, Tarkwa · 2008–2012
-- **Core interests:** RAG systems, medical imaging, full-stack SaaS, production ML pipelines
+- **Core interests:** RAG systems, generative AI apps, medical imaging, full-stack SaaS, production ML pipelines
 
 ## Credentials
 
