@@ -46,6 +46,17 @@ Document search system that lets engineers ask maintenance and parts questions i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker" style="vertical-align:middle">
 <br clear="all">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="right" height="80" alt="SVG Image Generator">
+
+### [SVG Image Generator](https://github.com/kaybee77/SVG) · [Source](https://github.com/kaybee77/SVG)
+
+<sub>Open source · MIT — Next.js 16, Vercel AI SDK, Gemini / Anthropic / OpenAI.</sub>
+
+AI-powered prompt-to-SVG app that turns text descriptions into safe, editable vector artwork — multi-provider model routing, server-side SVG validation, live preview, and download. Bring your own API key.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react" style="vertical-align:middle"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript" style="vertical-align:middle">
+<br clear="all">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="right" height="80" alt="Edusoft">
 
 ### Edusoft — School Management SaaS
@@ -120,6 +131,11 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" alt="engineering_Rag"></td>
     <td><strong><a href="https://github.com/kayess007/engineering_Rag">engineering_Rag</a></strong><br><sub><a href="https://github.com/kaybee77/engineering_Rag">Mirror on kaybee77 →</a></sub></td>
     <td><em>Production RAG for OEM manuals — FastAPI, ChromaDB, hybrid retrieval, reranking, RAGAS evaluation, Streamlit UI, Docker.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="fastapi"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="docker"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="72" alt="SVG"></td>
+    <td><strong><a href="https://github.com/kaybee77/SVG">SVG</a></strong><br><sub><a href="https://github.com/kaybee77/SVG">Open source · MIT →</a></sub></td>
+    <td><em>AI prompt-to-SVG generator — Next.js 16, Vercel AI SDK, Gemini/Anthropic/OpenAI, server-side SVG validation, live preview.</em><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="nextjs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="typescript"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="DB_ToyImp"></td>
@@ -273,4 +289,4 @@ Designed and implemented a retrieval-augmented generation system for enterprise 
 
 <sub><em>↑ Pills &amp; footer banner made with <a href="https://gradient-svg-generator.vercel.app/">gradient-svg-generator</a>.</em></sub>
 
-<sub>Last updated <strong>2026-06-05</strong>. [Back to top](#readme-top).</sub>
+<sub>Last updated <strong>2026-06-08</strong>. [Back to top](#readme-top).</sub>
